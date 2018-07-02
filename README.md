@@ -7,5 +7,6 @@ Essas scripts demonstram como utilizar o Azure CLI para executar/automatizar tar
 
   ## Scripts
   
-  + [Create a Virtual Machine Scale Set with custom VM image](https://github.com/xdanielribeiro/azurepowershell/blob/master/CreateVirtualMachineFromAzurePowerShell.ps1)
+  + [Create a Virtual Machine Scale Set with custom VM image](https://github.com/xdanielribeiro/azurecli/blob/master/CreateVMSSwithCustomImage.md)
  
+ #

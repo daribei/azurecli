@@ -1,0 +1,2 @@
+az vmss create -g ResourceGroupName -n VMSS_Name --image "/subscriptions/d8eed0e5-0000-0000-0000-61b4a71c41f5/resourceGroups/ResourceGroupName/providers/Microsoft.Compute/images/Image-Name"
+ --admin-username admin_daniel --admin-password Passw0rd --instance-count 1 --vnet-name VMSSVnetName --subnet Subnet-Producao --lb VMSSlb --backend-pool-name bepool --nsg VMSSnsg
